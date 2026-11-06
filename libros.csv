@@ -1,0 +1,51 @@
+id;titulo;autor;tema;paginas;anio;copias
+L01;Cien anos de soledad;Gabriel Garcia Marquez;Novela latinoamericana;471;1967;4
+L02;El amor en los tiempos del colera;Gabriel Garcia Marquez;Novela latinoamericana;368;1985;3
+L03;Cronica de una muerte anunciada;Gabriel Garcia Marquez;Novela latinoamericana;120;1981;3
+L04;La casa de los espiritus;Isabel Allende;Novela latinoamericana;433;1982;2
+L05;Rayuela;Julio Cortazar;Novela latinoamericana;635;1963;2
+L06;Pedro Paramo;Juan Rulfo;Novela latinoamericana;124;1955;3
+L07;El tunel;Ernesto Sabato;Novela latinoamericana;160;1948;2
+L08;Ficciones;Jorge Luis Borges;Novela latinoamericana;224;1944;2
+L09;La ciudad y los perros;Mario Vargas Llosa;Novela latinoamericana;408;1963;2
+L10;Los detectives salvajes;Roberto Bolano;Novela latinoamericana;609;1998;1
+L11;Dune;Frank Herbert;Ciencia ficcion;688;1965;3
+L12;Fundacion;Isaac Asimov;Ciencia ficcion;255;1951;3
+L13;Yo, robot;Isaac Asimov;Ciencia ficcion;253;1950;2
+L14;Neuromante;William Gibson;Ciencia ficcion;271;1984;2
+L15;Fahrenheit 451;Ray Bradbury;Ciencia ficcion;158;1953;3
+L16;1984;George Orwell;Ciencia ficcion;328;1949;4
+L17;Un mundo feliz;Aldous Huxley;Ciencia ficcion;311;1932;2
+L18;La guerra de los mundos;H. G. Wells;Ciencia ficcion;192;1898;2
+L19;Solaris;Stanisław Lem;Ciencia ficcion;204;1961;1
+L20;La mano izquierda de la oscuridad;Ursula K. Le Guin;Ciencia ficcion;304;1969;1
+L21;Sapiens;Yuval Noah Harari;Historia;496;2011;4
+L22;Armas, germenes y acero;Jared Diamond;Historia;498;1997;3
+L23;Homo Deus;Yuval Noah Harari;Historia;450;2015;3
+L24;Las venas abiertas de America Latina;Eduardo Galeano;Historia;400;1971;3
+L25;SPQR: una historia de la antigua Roma;Mary Beard;Historia;608;2015;2
+L26;Los canones de agosto;Barbara Tuchman;Historia;511;1962;2
+L27;Colombia: una nacion a pesar de si misma;David Bushnell;Historia;400;1993;2
+L28;Historia del siglo XX;Eric Hobsbawm;Historia;640;1994;2
+L29;Los origenes del totalitarismo;Hannah Arendt;Historia;704;1951;1
+L30;La conquista de America;Tzvetan Todorov;Historia;300;1982;1
+L31;Codigo limpio;Robert C. Martin;Tecnologia;464;2008;4
+L32;El programador pragmatico;Andrew Hunt y David Thomas;Tecnologia;352;1999;3
+L33;Introduccion a los algoritmos;Thomas H. Cormen;Tecnologia;1292;1990;3
+L34;Estructuras de datos y algoritmos en Java;Michael T. Goodrich;Tecnologia;720;1998;3
+L35;Patrones de diseno;Erich Gamma et al.;Tecnologia;395;1994;2
+L36;Inteligencia artificial: un enfoque moderno;Stuart Russell y Peter Norvig;Tecnologia;1152;1995;2
+L37;Python para todos;Raul Gonzalez Duque;Tecnologia;200;2008;3
+L38;Arquitectura limpia;Robert C. Martin;Tecnologia;432;2017;2
+L39;Diseno de aplicaciones con uso intensivo de datos;Martin Kleppmann;Tecnologia;616;2017;1
+L40;Refactorizacion;Martin Fowler;Tecnologia;448;1999;1
+L41;Breve historia del tiempo;Stephen Hawking;Ciencia;256;1988;4
+L42;Cosmos;Carl Sagan;Ciencia;396;1980;3
+L43;El gen egoista;Richard Dawkins;Ciencia;360;1976;3
+L44;Una breve historia de casi todo;Bill Bryson;Ciencia;544;2003;3
+L45;El origen de las especies;Charles Darwin;Ciencia;502;1859;2
+L46;La doble helice;James Watson;Ciencia;226;1968;2
+L47;Astrofisica para gente con prisa;Neil deGrasse Tyson;Ciencia;224;2017;2
+L48;El universo elegante;Brian Greene;Ciencia;448;1999;2
+L49;Los dragones del Eden;Carl Sagan;Ciencia;288;1977;1
+L50;Pensar rapido, pensar despacio;Daniel Kahneman;Ciencia;499;2011;3
